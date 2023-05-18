@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/assessment.io/static/css/main.02ed8ceb.css",
-    "main.js": "/assessment.io/static/js/main.0ec1205b.js",
-    "static/js/522.d7827605.chunk.js": "/assessment.io/static/js/522.d7827605.chunk.js",
-    "index.html": "/assessment.io/index.html",
-    "main.02ed8ceb.css.map": "/assessment.io/static/css/main.02ed8ceb.css.map",
-    "main.0ec1205b.js.map": "/assessment.io/static/js/main.0ec1205b.js.map",
-    "522.d7827605.chunk.js.map": "/assessment.io/static/js/522.d7827605.chunk.js.map"
+    "main.css": "/assessment-react/static/css/main.02ed8ceb.css",
+    "main.js": "/assessment-react/static/js/main.49e95cab.js",
+    "static/js/522.d7827605.chunk.js": "/assessment-react/static/js/522.d7827605.chunk.js",
+    "index.html": "/assessment-react/index.html",
+    "main.02ed8ceb.css.map": "/assessment-react/static/css/main.02ed8ceb.css.map",
+    "main.49e95cab.js.map": "/assessment-react/static/js/main.49e95cab.js.map",
+    "522.d7827605.chunk.js.map": "/assessment-react/static/js/522.d7827605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02ed8ceb.css",
-    "static/js/main.0ec1205b.js"
+    "static/js/main.49e95cab.js"
   ]
 }
